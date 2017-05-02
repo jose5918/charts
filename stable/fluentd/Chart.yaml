@@ -1,0 +1,4 @@
+apiVersion: v1
+description: A Helm chart for fluentd in Kubernetes. Based off of Kubernetes add-on for Elasticsearch
+name: fluentd
+version: 0.2.0
